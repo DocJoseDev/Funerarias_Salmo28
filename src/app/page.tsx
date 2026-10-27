@@ -322,7 +322,9 @@ export default function Home() {
       <footer className="relative z-10 border-t border-white/8 bg-black/20">
         <div className="mx-auto flex max-w-7xl flex-col gap-6 px-6 py-8 text-sm text-white/50 lg:flex-row lg:items-center lg:justify-between lg:px-10">
           <p>Salmo 28. Una presencia sobria para acompañar con respeto.</p>
-          <p>Diseño inspirado en la estructura comercial de la referencia, con contenido y marca propios.</p>
+          
+          <p>Proyecto final de la materia Ingeniería de software - Nava Cervantes Jose Manuel - 2970819</p>
+          
         </div>
       </footer>
     </main>
